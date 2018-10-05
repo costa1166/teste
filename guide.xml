@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+ 
+ 
+ <channel id="TELECINE PREMIUM HD">
+    <display-name lang="pt">TELECINE PREMIUM HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE ACTION HD">
+    <display-name lang="pt">TELECINE ACTION HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE TOUCH HD">
+    <display-name lang="pt">TELECINE TOUCH HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE FUN HD">
+    <display-name lang="pt">TELECINE FUN HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE PIPOCA HD">
+    <display-name lang="pt">TELECINE PIPOCA HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE CULT HD">
+    <display-name lang="pt">TELECINE CULT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO PLUS HD">
+    <display-name lang="pt">HBO PLUS HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO PLUS*E HD">
+    <display-name lang="pt">HBO PLUS*E HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO FAMILY HD">
+    <display-name lang="pt">HBO FAMILY HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO SIGNATURE HD">
+    <display-name lang="pt">HBO SIGNATURE HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MAX HD">
+    <display-name lang="pt">MAX HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MAX PRIME  HD">
+    <display-name lang="pt">MAX PRIME  HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MAX PRIME'E HD">
+    <display-name lang="pt">MAX PRIME'E HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MAX SD">
+    <display-name lang="pt">MAX SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MAX PRIME SD">
+    <display-name lang="pt">MAX PRIME SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MAX PRIME'E SD">
+    <display-name lang="pt">MAX PRIME'E SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MAX UP HD">
+    <display-name lang="pt">MAX UP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MAX UP SD">
+    <display-name lang="pt">MAX UP SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX LIFE HD">
+    <display-name lang="pt">FOX LIFE HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX SPORTS HD">
+    <display-name lang="pt">FOX SPORTS HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX SPORTS 2 HD">
+    <display-name lang="pt">FOX SPORTS 2 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX SD">
+    <display-name lang="pt">FOX SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX LIFE SD">
+    <display-name lang="pt">FOX LIFE SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS SD">
+    <display-name lang="pt">FOX SPORTS SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS 2 SD">
+    <display-name lang="pt">FOX SPORTS 2 SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO BRASILIA HD H265">
+    <display-name lang="pt">GLOBO BRASILIA HD H265</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO EPTV CAMPINAS HD">
+    <display-name lang="pt">GLOBO EPTV CAMPINAS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO EPTV CAMPINAS SD">
+    <display-name lang="pt">GLOBO EPTV CAMPINAS SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO EPTV RIBEIRAO PRETO SD">
+    <display-name lang="pt">GLOBO EPTV RIBEIRAO PRETO SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO MG HD">
+    <display-name lang="pt">GLOBO MG HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO MG SD">
+    <display-name lang="pt">GLOBO MG SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO RBS TV PORTO ALEGRE SD**">
+    <display-name lang="pt">GLOBO RBS TV PORTO ALEGRE SD**</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO RJ HD">
+    <display-name lang="pt">GLOBO RJ HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO RJ SD">
+    <display-name lang="pt">GLOBO RJ SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SP HD">
+    <display-name lang="pt">GLOBO SP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SP SD">
+    <display-name lang="pt">GLOBO SP SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO TV ANHANGUERA GOIANIA SD">
+    <display-name lang="pt">GLOBO TV ANHANGUERA GOIANIA SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO BAHIA HD">
+    <display-name lang="pt">GLOBO BAHIA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO BAHIA SD">
+    <display-name lang="pt">GLOBO BAHIA SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO NEWS HD">
+    <display-name lang="pt">GLOBO NEWS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO NEWS SD">
+    <display-name lang="pt">GLOBO NEWS SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+ 
+</tv>
